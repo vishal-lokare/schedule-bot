@@ -1,1 +1,1 @@
-# timetable-bot
+# schedule-bot
